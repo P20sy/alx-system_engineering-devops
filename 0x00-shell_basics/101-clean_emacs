@@ -1,2 +1,2 @@
-#!/bib/bash
-mv -t $~
+#!/bin/bash
+rm -rv * $~
